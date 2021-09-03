@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Wonxen&color=db0000&label=Toplam+Profil+Görüntelenme+Sayısı+:)
-<h1 align="center">Herkese Merhaba Ben Wonxen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+![](https://komarev.com/ghpvc/?username=Wonxen&color=db0000&label=Toplam+Profil+Görüntelenme+Sayısı+:) <h1 align="center">Herkese Merhaba, Ben Wonxen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
 2017 Yılından Beri Discord Platformunda (JavaScript) Temelli Bot Geliştiriyorum. <br>
 Benimle Tanışmak, Paylaştığım Altyapılarla İlgili Yardım Almak Veya Bot Satın Almak İçin Discord Sunucuma Gelebilirsiniz.
