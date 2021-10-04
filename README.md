@@ -1,30 +1,23 @@
-<h1 align="center">Merhaba kankss, Ben Wonxen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
+<h1 align="center">Herkese Selam , Ben Wonxen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
-1966 Yılından Beri Discord Platformunda (JavaScript) Temelli Bot Geliştiriyorum. <br>
+2018 Yılından Beri Discord Platformunda (JavaScript) Temelli Bot Geliştiriyorum. <br>
 </p>
 
-<p align="center">
-<a href="https://discord.com/users/545976310342746152" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a  target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
+### Kullandığım Programlar Ve Yazılım Dilleri :
 
-<h3 align="center">Kullandığım Programlar Ve Yazılım Dilleri :</h3>
-<p align="center">
-<code><a  target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a  target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
-<strong>|</strong>
-<code><a  target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></a></code>
-<code><a  target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
-<strong>|</strong>
-<code><a  target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a  target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<br><br>
-<code><a  target="_blank"><img height="40" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a></code>
-<code><a  target="_blank"><img height="40" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></code>
-<code><a  target="_blank"><img height="40" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a></code>
-<code><a  target="_blank"><img height="40" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a></code>
-<code><a  target="_blank"><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></a></code>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" />
+<br />
+<h3>Kişisel Hesaplarım:</h3>
+<p align="left">
+<a href="https://discord.com/users/545976310342746152" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
+ <a href="https://www.instagram.com/Wonxen.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/Wonxen" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://open.spotify.com/user/r07r36xjkamgtz9kwyoivspye" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxen" alt="Wonxen" /> </p>
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
@@ -32,5 +25,4 @@
 <a href="https://github.com/Wonxen/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonxen&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
 </p>
 
-![profile count](https://komarev.com/ghpvc/?username=Wonxen&color=red)&nbsp;
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152)](https://discord.com/users/545976310342746152)
