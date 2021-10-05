@@ -1,6 +1,6 @@
 <h1 align="center">Herkese Selam , Ben Wonxen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
-2018 Yılından Beri Discord Platformunda (JavaScript) Temelli Bot Geliştiriyorum. <br>
+2019 Yılından Beri Discord Platformunda (JavaScript) Temelli Bot Geliştiriyorum. <br>
 </p>
 
 ### Kullandığım Programlar Ve Yazılım Dilleri :
