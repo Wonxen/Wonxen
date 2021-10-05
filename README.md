@@ -16,6 +16,7 @@
  <a href="https://www.instagram.com/Wonxen.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/Wonxen" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://open.spotify.com/user/r07r36xjkamgtz9kwyoivspye" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://steamcommunity.com/profiles/76561198355977497/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxen" alt="Wonxen" /> </p>
 
