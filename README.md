@@ -26,4 +26,6 @@
 <a href="https://github.com/Wonxen/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonxen&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152)](https://discord.com/users/545976310342746152)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152?hideDiscrim=true)](https://discord.com/users/545976310342746152)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853662549462351882?hideDiscrim=true)](https://discord.com/users/853662549462351882)
+
