@@ -27,5 +27,4 @@
 </p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152?hideDiscrim=true)](https://discord.com/users/545976310342746152)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853662549462351882?hideDiscrim=true)](https://discord.com/users/853662549462351882)
 
