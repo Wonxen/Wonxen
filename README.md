@@ -19,8 +19,7 @@
 <a href="https://open.spotify.com/user/r07r36xjkamgtz9kwyoivspye" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198355977497/" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxen" alt="Wonxen" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/Wonxen?label=follow&style=social" alt="Wonxen" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxen" alt="Wonxen" /> <img src="https://img.shields.io/github/followers/Wonxen?label=follow&style=social" alt="Wonxen" /> </p>
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
@@ -30,7 +29,6 @@
 
 <h2 align="center">Discord Hesaplarım:</h2>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152?hideDiscrim=true)](https://discord.com/users/545976310342746152)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152?hideDiscrim=true)](https://discord.com/users/545976310342746152)
 
 
