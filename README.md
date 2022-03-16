@@ -20,7 +20,7 @@
 <a href="https://steamcommunity.com/profiles/76561198355977497/" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxen" alt="Wonxen" /> </p>
-[![GitHub Wonxen](https://img.shields.io/github/followers/Wonxen?label=follow&style=social)](https://github.com/Wonxen)&nbsp;
+<p align="center"> <img src="https://img.shields.io/github/followers/Wonxen?label=follow&style=social" alt="Wonxen" /> </p>
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
