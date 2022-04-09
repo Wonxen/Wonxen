@@ -6,11 +6,11 @@
 ### Kullandığım Programlar Ve Yazılım Dilleri :
 
 <img align="left" src="https://turkmenzaman.com/assets/images/javascript-39417.png" width="25" height="25" />
-<img align="left"  src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="25" height="25" />
+<img align="left"  src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="25" height="25" />
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="25" height="25" />
+<img align="left" src="https://static.cdnlogo.com/logos/c/18/css.svg" width="25" height="25" />
+<img align="left" src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" width="25" height="25" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="25" height="25" />
 <br />
 <h3>Kişisel Hesaplarım:</h3>
 <p align="left">
