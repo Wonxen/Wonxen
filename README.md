@@ -9,7 +9,7 @@
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="25" height="25" />
 <img align="left" src="https://static.cdnlogo.com/logos/c/18/css.svg" width="25" height="25" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="25" height="25" />
-<img align="left" src="https://www.nicepng.com/ourpic/u2w7w7o0y3o0a9w7_sql-server-icon-png-29-transparent-background-database/" width="25" height="25" />
+<img align="left" src="https://www.clipartmax.com/middle/m2H7K9G6b1G6G6m2_azure-sql-database-icon/" target="_blank">Azure Sql Database Icon @clipartmax.com" width="25" height="25" />
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" width="25" height="25" />
 <img align="left" src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" width="25" height="25" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="25" height="25" />
