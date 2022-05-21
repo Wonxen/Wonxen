@@ -29,8 +29,8 @@
 <a href="https://github.com/Wonxen/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonxen&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
 </p>
 
-<h2 align="center">Discord Hesaplarım:</h2>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152?hideDiscrim=true)](https://discord.com/users/545976310342746152)
+<h1 align="center">Discord Profilim</h1>
+<p align="center">
+<a href="https://github.com/Wonxen/" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/545976310342746152 theme=dark&bg=171a1f&animated=true&hideDiscrim=false&borderRadius=10px&locale=true"/></a>
 
 
