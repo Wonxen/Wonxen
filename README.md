@@ -33,4 +33,6 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152?hideDiscrim=true)](https://discord.com/users/545976310342746152)
 
+<h2 align="center">Spotify 🎧</h2>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhf01syvx5h4s1v3jqriy5cey&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
