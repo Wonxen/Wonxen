@@ -35,6 +35,4 @@
 
 <h2 align="center">Spotify 🎧</h2>
 
-<a href="https://github.com/Wonxen/" target="_blank"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Wonxen&theme=dark&count_private=true&show_icons=true&hide_border=true](https://spotify-github-profile.vercel.app/api/view?uid=bhf01syvx5h4s1v3jqriy5cey&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)"/></a>
- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhf01syvx5h4s1v3jqriy5cey&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
