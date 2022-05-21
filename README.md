@@ -31,6 +31,6 @@
 
 <h1 align="center">Discord Profilim</h1>
 <p align="center">
-<a href="https://github.com/Wonxen/" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/545976310342746152 theme=dark&bg=171a1f&animated=true&hideDiscrim=false&borderRadius=10px&locale=true"/></a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152?hideDiscrim=true)](https://discord.com/users/545976310342746152)
 
 
