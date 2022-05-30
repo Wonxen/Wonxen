@@ -31,8 +31,10 @@ Ben Emre namı diğer Wonxen(Woksen) 18 yaşındayım, öğrenmeye, gelişmeye h
 </p>
 
 <h2 align="center">Discord Hesaplarım:</h2>
-
+<p align="center">
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152?hideDiscrim=true)](https://discord.com/users/545976310342746152)
+<br>
+</p>
 
 <h2 align="center">Spotify 🎧</h2>
 
