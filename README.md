@@ -1,7 +1,7 @@
 <h1 align="center">Herkese Selam , Ben Wonxen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
-Kendimden biraz bahsedeyim. Ben Emre namı diğer Wonxen(Woksen) 18 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur.
- <br>
+Ben Emre namı diğer Wonxen(Woksen) 18 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur.
+<br>
 </p>
 
 ### Kullandığım Programlar Ve Yazılım Dilleri :
