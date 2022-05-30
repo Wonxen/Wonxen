@@ -10,6 +10,7 @@ Ben Emre namı diğer Wonxen(Woksen) 18 yaşındayım, öğrenmeye, gelişmeye h
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="25" height="25" />
 <img align="left" src="https://static.cdnlogo.com/logos/c/18/css.svg" width="25" height="25" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="25" height="25" />
+<img align="left" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" width="25" height="25" />
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" width="25" height="25" />
 <img align="left" src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" width="25" height="25" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="25" height="25" />
