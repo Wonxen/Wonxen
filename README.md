@@ -13,6 +13,7 @@ Ben Emrecan namı diğer Wonxen 17 yaşındayım, öğrenmeye, gelişmeye her za
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" width="25" height="25" />
 <img align="left" src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" width="25" height="25" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="25" height="25" />
+<img align="left" src="https://resimyukle.io/r/q7AhJ1B62l" width"25" height="25 />
 <br />
 <h3>Kişisel Hesaplarım:</h3>
 <p align="left">
