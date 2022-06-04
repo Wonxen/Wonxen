@@ -6,7 +6,7 @@ Ben Emrecan namı diğer Wonxen 17 yaşındayım, öğrenmeye, gelişmeye her za
 
 ### Kullandığım Programlar Ve Yazılım Dilleri :
 
-<img align="left" src="[https://turkmenzaman.com/assets/images/javascript-39417.png](https://www.pngwing.com/en/free-png-vksoi)" width="25" height="25" />
+<img align="left" src="https://turkmenzaman.com/assets/images/javascript-39417.png" width="25" height="25" />
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="25" height="25" />
 <img align="left" src="https://static.cdnlogo.com/logos/c/18/css.svg" width="25" height="25" />
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="25" height="25" />
