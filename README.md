@@ -11,6 +11,7 @@ I'm Emrecan aka Wonxen. I'm 17 years old, I've always been hungry for learning a
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br />
 <h3>My Personal Accounts</h3>
 <p align="left">
