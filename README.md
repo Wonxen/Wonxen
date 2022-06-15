@@ -33,9 +33,9 @@ I'm Emrecan aka Wonxen. I'm 17 years old, I've always been hungry for learning a
 <a href="https://github.com/Wonxen/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonxen&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
 </p>
 
-<h2 align="center">My Discord Accounts</h2>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/545976310342746152?hideDiscrim=true)](https://discord.com/users/545976310342746152)
+  <h1 align="center">Discord Profilim</h1>
+<p align="center">
+  <a href="https://github.com/Wonxen/" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/545976310342746152?theme=dark&bg=171a1f&animated=true&hideDiscrim=false&borderRadius=10px&locale=true"/></a>
 
 
 <h2 align="center">Spotify 🎧</h2>
