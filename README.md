@@ -42,6 +42,7 @@ I'm Emrecan aka Wonxen. I'm 17 years old, I've always been hungry for learning a
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhf01syvx5h4s1v3jqriy5cey&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<h2 align="center"></h2>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/828589873253449838/986544415927574528/wonxen.png" alt="wonxen" width="600" height="240">
 </p>
