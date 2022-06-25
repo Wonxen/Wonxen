@@ -44,5 +44,5 @@ I'm Emrecan aka Wonxen. I'm 17 years old, I've always been hungry for learning a
 
 <h2 align="center"></h2>
 <p align="center">
-  ![Uploading wonxen.gif…]()
+  ![wonxen](https://user-images.githubusercontent.com/85366208/175788338-28bda2db-518c-45d7-8c8b-212043dfba9a.gif)
 </p>
