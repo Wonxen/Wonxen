@@ -44,5 +44,5 @@ I'm Emrecan aka Wonxen. I'm 17 years old, I've always been hungry for learning a
 
 <h2 align="center"></h2>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/828589873253449838/986544415092899880/wonxen.gif" alt="wonxen" width="600" height="240">
+  ![Uploading wonxen.gif…]()
 </p>
