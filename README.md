@@ -5,7 +5,7 @@ I'm Emrecan aka Wonxen. I'm 17 years old, I've always been hungry for learning a
 </p>
 
 <h2 align="center">My Personal Accounts</h2>
-<p align="left">
+<p align="center">
 <a href="https://discord.com/users/545976310342746152" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
  <a href="https://www.instagram.com/Wonxen.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/Wonxen" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
