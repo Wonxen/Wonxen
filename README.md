@@ -13,19 +13,19 @@ I'm Emrecan aka Wonxen. I'm 17 years old, I've always been hungry for learning a
 <a href="https://steamcommunity.com/profiles/76561198355977497/" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 
-<h3 align="center">Software Languages</h3>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![CSharp](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br />
+<h1 align="center">Software Languages</h1>
+<div align="center">
+ <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+ <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+ <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
+ <img alt="CSharp" align="center" src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp"/>
+ <img alt="MySQL" align="center" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL"/>
+ <img alt="MongoDB" align="center" src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
+ <img alt="Node.js" align="center" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
+ <img alt="Heroku" align="center" src="https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku"/>
+ <img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+ <img alt="Visual Studio Code" align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+</div>
 
 <h2 align="center">My GitHub Statistics</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxen" alt="Wonxen" /> <img src="https://img.shields.io/github/followers/Wonxen?label=follow&style=social" alt="Wonxen" /> </p>
