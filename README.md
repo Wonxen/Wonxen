@@ -4,6 +4,15 @@ I'm Emrecan aka Wonxen. I'm 17 years old, I've always been hungry for learning a
 <br>
 </p>
 
+<h2 align="center">My Personal Accounts</h2>
+<p align="left">
+<a href="https://discord.com/users/545976310342746152" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
+ <a href="https://www.instagram.com/Wonxen.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/Wonxen" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://open.spotify.com/user/r07r36xjkamgtz9kwyoivspye" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://steamcommunity.com/profiles/76561198355977497/" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+</p>
+
 <h3 align="center">Software Languages</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -17,14 +26,6 @@ I'm Emrecan aka Wonxen. I'm 17 years old, I've always been hungry for learning a
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br />
-<h3 align="center">My Personal Accounts</h3>
-<p align="left">
-<a href="https://discord.com/users/545976310342746152" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
- <a href="https://www.instagram.com/Wonxen.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/Wonxen" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://open.spotify.com/user/r07r36xjkamgtz9kwyoivspye" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://steamcommunity.com/profiles/76561198355977497/" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-</p>
 
 <h2 align="center">My GitHub Statistics</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxen" alt="Wonxen" /> <img src="https://img.shields.io/github/followers/Wonxen?label=follow&style=social" alt="Wonxen" /> </p>
