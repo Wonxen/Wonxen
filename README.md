@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi Everyone, I'm Wonxen 👋</h1>
+<h3 align="center">Retired Developer</h3>
+<h4 align="center">My name is Emre and I'm 17 years old. I'm currently learning backend development to improve my skills in programming, and I'm always learning new things in the field. While I'm not an expert, I'm particularly interested in becoming proficient in C# and SQL. My goal is to become a skilled developer in these areas through continued learning and practice.</h4>
 
-<!--
-**Wonxen/Wonxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; flex-direction: row-reverse;">
+  <img align="right" src="https://lanyard-profile-readme.vercel.app/api/972920818969505875" width="%100" height="100%">
+</div>
+  
+## Connect With Me
 
-Here are some ideas to get you started:
+[<img align="left" src="https://img.shields.io/badge/Discord%20-111111.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>][discord]
+[<img align="left" src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
+[<img align="left" src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>][spotify]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[spotify]: https://open.spotify.com/user/r07r36xjkamgtz9kwyoivspye
+[discord]: https://discord.com/users/972920818969505875
+[github]: https://github.com/Wonxen
+<br />
+
+## Software Languages
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,mysql"/>
+  </a>
+</div>
+
+## GitHub Statistics
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Wonxen&count_private=true&bg_color=0d1117&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonxen&layout=compact&bg_color=0d1117&theme=dark&hide_border=true" width="%100" height="100%">
