@@ -1,10 +1,6 @@
 <h1 align="center">Hi Everyone, I'm Wonxen 👋</h1>
 <h3 align="center">Retired Developer</h3>
 <h4 align="center">My name is Emre and I'm 17 years old. I'm currently learning backend development to improve my skills in programming, and I'm always learning new things in the field. While I'm not an expert, I'm particularly interested in becoming proficient in C# and SQL. My goal is to become a skilled developer in these areas through continued learning and practice.</h4>
-
-<div style="display: flex; flex-direction: row-reverse;">
-  <img align="right" src="https://lanyard-profile-readme.vercel.app/api/972920818969505875" width="%100" height="100%">
-</div>
   
 ## Connect With Me
 
