@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone, I'm Wonxen 👋</h1>
 <h3 align="center">Retired Developer</h3>
-<h4 align="center">My name is Emre and I'm 17 years old. I'm currently learning backend development to improve my skills in programming, and I'm always learning new things in the field. While I'm not an expert, I'm particularly interested in becoming proficient in C# and SQL. My goal is to become a skilled developer in these areas through continued learning and practice.</h4>
+<h4 align="center">My name is Emre and I'm 19 years old.</h4>
   
 ## Connect With Me
 
